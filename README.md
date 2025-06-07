@@ -1,2 +1,2 @@
 # LinkedInSolvers
-Local solvers for Zip, Tango, Queens, Pinpoint, and Crossclimb.
+Local solvers for Zip, Tango, and Queens, with an easy-to-use dashboard and GUIs.
