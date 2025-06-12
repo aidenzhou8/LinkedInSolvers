@@ -4,7 +4,7 @@
 
 - A local app for solving LinkedIn's daily puzzles, particularly Queens, Tango, and Zip.
 - Uses backtracking and graph traversal techniques to quickly decode any puzzle board. 
-- Includes a unified dashboard, interactive GUIs, and animations, built with PyQt5. 
+- Includes a unified dashboard, interactive GUIs, and animations built using PyQt5. 
 
 ## 🚀 Usage
 
