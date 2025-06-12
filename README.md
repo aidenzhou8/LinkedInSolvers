@@ -1,44 +1,39 @@
-# LinkedIn Puzzle Solvers
+# 📦 LinkedIn Puzzle Solvers
 
-A unified dashboard application for solving various LinkedIn puzzles, including Queens, Tango, and Zip puzzles. Built with Python and PyQt5, this application provides an intuitive interface for puzzle solving with visual feedback and animations.
+## 🌟 Highlights
 
-## Features
+- A local app for solving LinkedIn's daily puzzles, particularly Queens, Tango, and Zip.
+- Uses backtracking and graph traversal techniques to quickly decode any puzzle board. 
+- Includes a unified dashboard, interactive GUIs, and animations, built with PyQt5. 
 
-### Dashboard
-- Modern, responsive interface with game selection cards
-- Consistent styling across all solvers
-- Easy navigation between different puzzle types
+## 🚀 Usage
 
-### Queens Puzzle Solver
-- Interactive grid for creating regions
-- Click-and-drag interface for region creation
-- Automatic color assignment for distinct regions
-- Visual solution display with crown emojis (👑)
-- Enforces puzzle rules:
-  - One queen per row
-  - One queen per column
-  - One queen per region
-  - No adjacent queens (including diagonals)
+```py
+>>> import mypackage
+>>> mypackage.do_stuff()
+'Oh yeah!'
+```
 
-### Tango Puzzle Solver
-- 6x6 grid for sun (☀) and moon (🌙) placement
-- Interactive constraint setting between cells
-- Visual feedback for constraints (= and ×)
-- Automatic solution finding
-- Enforces puzzle rules:
-  - Equal number of suns and moons in each row/column
-  - No three consecutive same symbols
-  - Respects cell constraints
 
-### Zip Puzzle Solver
-- Customizable grid size
-- Interactive number placement
-- Barrier creation between cells
-- Animated solution path
-- Enforces puzzle rules:
-  - Path must visit all cells
-  - Numbers must be visited in sequence
-  - Barriers prevent movement
+## ⬇️ Installation
+
+Simple, understandable installation instructions!
+
+```bash
+pip install my-package
+```
+
+And be sure to specify any other minimum requirements like Python versions or operating systems.
+
+*You may be inclined to add development instructions here, don't.*
+
+
+## 💭 Feedback and Contributing
+
+Add a link to the Discussions tab in your repo and invite users to open issues for bugs/feature requests.
+
+This is also a great place to invite others to contribute in any ways that make sense for your project. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them.
+
 
 ## Installation
 
