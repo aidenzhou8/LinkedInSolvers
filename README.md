@@ -23,8 +23,8 @@ python dashboard.py
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/aidenzhou8/LinkedinSolver.git
-cd LinkedinSolver
+git clone https://github.com/aidenzhou8/LinkedInSolvers.git
+cd LinkedInSolvers
 ```
 
 2. Install the required dependencies:
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ## Project Structure
 
 ```
-LinkedinSolver/
+LinkedInSolvers/
 ├── dashboard.py      # Main dashboard
 ├── queens.py         # Queens solver
 ├── tango.py          # Tango solver
