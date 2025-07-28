@@ -38,19 +38,6 @@ pip install -r requirements.txt
 - PyQt5
 - Futura font (system font on MacOS)
 
-## Project Structure
-
-```
-LinkedInSolvers/
-├── dashboard.py      # Main dashboard
-├── queens.py         # Queens solver
-├── tango.py          # Tango solver
-├── zip.py            # Zip solver
-├── utils.py          # Shared design code (title, back button)
-├── requirements.txt  # Python dependencies
-└── resources/        # Icons and assets
-```
-
 ## Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements!
